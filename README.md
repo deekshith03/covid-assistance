@@ -23,3 +23,8 @@ to seek for help by posting the details of the patient.
 ### Data flow Diagram
 
 ![data flow diagram](https://github.com/Jeffrin-J/covid-assistance/blob/master/flow_diagrams/image.png?raw=true)
+
+
+### video link 
+
+https://youtu.be/i5ok2-5c6P0
