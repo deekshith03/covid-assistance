@@ -27,4 +27,4 @@ to seek for help by posting the details of the patient.
 
 ### video link 
 
-![video_explanation](https://youtu.be/i5ok2-5c6P0?raw=true)
+![video_explanation](https://youtu.be/i5ok2-5c6P0)
